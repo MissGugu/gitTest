@@ -1,2 +1,3 @@
 Dear gugu:
 	say hello to you 
+	say hello to haidu 
